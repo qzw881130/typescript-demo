@@ -1,0 +1,38 @@
+Arguments: 
+  /Users/qianzhiwei/.nvm/versions/node/v14.14.0/bin/node /Users/qianzhiwei/.nvm/versions/node/v14.14.0/bin/yarn add --dev parcel@next
+
+PATH: 
+  /opt/homebrew/opt/openssl@3/bin:/opt/homebrew/opt/file-formula/bin:/Users/qianzhiwei/.composer/vendor/bin:/opt/homebrew/opt/file-formula/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/opt/php@7.3/sbin:/usr/local/opt/php@7.3/bin:/Users/qianzhiwei/go/bin:/usr/local/go/bin:/Users/qianzhiwei/.pyenv/shims:/Users/qianzhiwei/.nvm/versions/node/v14.14.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/qianzhiwei/.nvm/versions/node/v14.14.0/bin:/usr/local/go/bin:/Applications/Wireshark.app/Contents/MacOS:/opt/homebrew/opt/openssl@3/bin:/opt/homebrew/opt/file-formula/bin:/Users/qianzhiwei/.composer/vendor/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/opt/php@7.3/sbin:/usr/local/opt/php@7.3/bin:/Users/qianzhiwei/go/bin:/Users/qianzhiwei/.pyenv/shims:/usr/local/mysql/bin:/usr/local/mysql/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  14.14.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: unexpected end of file
+      at Zlib.zlibOnError [as onerror] (zlib.js:182:17)
+
+npm manifest: 
+  {
+    "name": "TSTest-Parcel",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
